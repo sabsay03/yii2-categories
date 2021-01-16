@@ -12,7 +12,7 @@ use sabsay03\categories\views\Categories\view;
 /* @var $model sabsay03\categories\models\Categories */
 function search($id)
 {
-    $query = \Melih627\products\models\Products::find();
+    $query = \melih058\products\models\Products::find();
 
     // add conditions that should always apply here
 

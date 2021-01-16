@@ -3,7 +3,7 @@
 namespace sabsay03\categories\models;
 
 use Yii;
-use Melih627\products\models\Products;
+use melih058\products\models\Products;
 
 
 /**
