@@ -4,7 +4,7 @@ namespace sabsay03\categories\models;
 
 use yii\base\Model;
 use yii\data\ActiveDataProvider;
-use backend\Modules\categories\models\Categories;
+use sabsay03\categories\models\Categories;
 
 /**
  * CategoriesSearch represents the model behind the search form of `backend\Modules\categories\models\categories`.
