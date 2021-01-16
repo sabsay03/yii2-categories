@@ -2,8 +2,8 @@
 
 namespace sabsay03\categories\controllers;
 use Yii;
-use sabsay03categories\models\Categories;
-use sabsay03categories\models\CategoriesSearch;
+use sabsay03\categories\models\Categories;
+use sabsay03\categories\models\CategoriesSearch;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
