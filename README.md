@@ -211,7 +211,7 @@ http://advanced/backend/web/index.php?r=site%2Flogin
 
 ## Yii2 Categories Modülü
 
-categories modülü productla one to many ilişkisine sahip yani bir productın bir category si olurken bir categorynin birden fazla productı olabilir.Sadece admin category ekleyebilir üstteki menüden categoryleri listeleyebiliriz ve ordan o category e ait productları listeleyebiliriz.
+categories modülü productla one to many ilişkisine sahip yani bir productın bir category si olurken bir categorynin birden fazla productı olabilir.Sadece admin category ekleyebilir. sol üstteki admin menüsünden kategorş ekeyebiiriz.üsttteki menü bardaki  categoryle kategorieri listeleyebiliriz ve ordan o category e ait productları listeleyebiliriz.
 
 ###### Categories  Sayfası
 ![category](<resim3.png>)
